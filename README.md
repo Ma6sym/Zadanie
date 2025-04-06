@@ -56,7 +56,7 @@ class Program
         }
     }
 
-
+    
     static void DodajProdukt()
     {
         Console.WriteLine("Podaj nazwe produktu: ");
@@ -136,3 +136,7 @@ class Program
         Console.WriteLine($"całkowita wartość magazynu: {wartosc:C}");
     }
 }
+
+
+
+
